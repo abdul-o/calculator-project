@@ -84,5 +84,20 @@ button{
     padding-left: -20px;
 }
 
+#repo{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#repo>a{
+    padding-left: 50px;
+    font-size: larger;
+    color: white;
+}
+#repo>h3{
+    color: white;
+}
 
 
